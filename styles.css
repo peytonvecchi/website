@@ -19,7 +19,7 @@ body {
 }
 
 .hero {
-  background-color: rgb(28, 19, 150);
+  background-color: rgb(10, 2, 160);
   position: relative;
   overflow: hidden; /* ensures particles stay inside hero */
   height: 70vh;
