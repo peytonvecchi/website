@@ -2,10 +2,6 @@ body {
   color: aliceblue;
 }
 
-h1 .display-5 {
-  color: aliceblue;
-}
-
 #particles-hero {
   position: absolute;
   width: 100%;
@@ -16,8 +12,9 @@ h1 .display-5 {
 }
 
 .name {
+  color: aliceblue;
   font-size: 4rem;
-  font-weight: lighter;
+  font-weight: 300;
   letter-spacing: 0.3rem;
 }
 
