@@ -29,3 +29,7 @@ body {
   position: relative;
   z-index: 1;
 }
+
+.tag-line {
+  font-weight: 400;
+}
