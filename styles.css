@@ -14,7 +14,7 @@ body {
 .name {
   color: aliceblue;
   font-size: 4rem;
-  font-weight: 400;
+  font-weight: 300;
   letter-spacing: 0.3rem;
 }
 
@@ -31,5 +31,5 @@ body {
 }
 
 .tag-line {
-  font-weight: 500;
+  font-weight: 400;
 }
