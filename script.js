@@ -7,7 +7,7 @@ particlesJS("particles-hero", {
     size: { value: 2, random: true },
     line_linked: {
       enable: true,
-      distance: 125,
+      distance: 150,
       color: "#ffffff",
       opacity: 0.3,
       width: 1,
