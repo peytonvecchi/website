@@ -3,13 +3,13 @@ particlesJS("particles-hero", {
     number: { value: 80, density: { enable: true, value_area: 800 } },
     color: { value: "#ffffff" },
     shape: { type: "circle" },
-    opacity: { value: 0.4, random: false },
+    opacity: { value: 0.3, random: false },
     size: { value: 2, random: true },
     line_linked: {
       enable: true,
-      distance: 150,
+      distance: 125,
       color: "#ffffff",
-      opacity: 0.4,
+      opacity: 0.3,
       width: 1,
     },
     move: {
